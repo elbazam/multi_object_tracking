@@ -4,15 +4,11 @@
 # Multi Tracking Using Kalman Filter.
 
 
-A python package for multi object detection.
+A Python package for multi-object detection.
 
 
 
-[![Tracking traffic]
-(https://i.ytimg.com/vi/4F954rXDHiA/maxresdefault.jpg)]
-(https://youtu.be/4F954rXDHiA "Tracking traffic")
-[!Tracking traffic](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
+[<img src="http://i3.ytimg.com/vi/4F954rXDHiA/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=4F954rXDHiA)
 
 
 
