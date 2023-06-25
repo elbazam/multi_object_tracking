@@ -17,16 +17,16 @@ A Python package for multi-object detection.
 ### Circles tracking
 
 - python 3.x
-- numpy
+- NumPy
 - sklearn
 - opencv
 
 ### Object tracking
 
 - python3.x
-- numpy
+- NumPy
 - sklearn
-- opencv
+- OpenCV
 - tensorflow2
 
 
@@ -36,15 +36,13 @@ A Python package for multi-object detection.
 ### Circles tracking
 
 
-[![Tracking circles]          // Title
-(https://i.ytimg.com/vi/7TtYKalIaoE/maxresdefault.jpg)] // Thumbnail
-(https://youtube.com/shorts/7TtYKalIaoE?feature=share "Tracking circles")    // Video Link
+https://github.com/elbazam/multi_object_tracking/assets/53000338/c28490f9-1ac5-4ac1-bb11-ddb66a2ca092
 
 
 
 #### Create data and track it online
 
-This option allows creating a random sample data while online tracking the data.
+This option creates random sample data while online tracking the data.
 
 To run:
 
@@ -52,7 +50,7 @@ To run:
 python createAndTrackSimpleData.py --ball {Number of circles to track}
 ```
 
-- ball: int. Number of balls to track. Default value set to 5.
+- ball: int. Number of balls to track. The default value is set to 5.
 
 #### Create data
 
@@ -65,12 +63,12 @@ python createSimpleData.py --name {Name of the file} --ball {Number of circles t
 ```
 
 - name: str. The name of the video this code creates. Defalut name is "ex5". The file will be saved
-in the video folder in avi format.
-- ball: int. Number of balls to track. Default value set to 5.
+in the video folder in "avi" format.
+- ball: int. Number of balls to track. The default value is set to 5.
 
 #### Track data
 
-This option opens a short video of multiple circles randomly moving and track them.
+This option opens a short video of multiple circles randomly moving and tracking them.
 
 To run:
 
@@ -79,8 +77,8 @@ python simpleMultiTracker.py --name {Name of the file} --save {True or False}
 ```
 
 - name: str. The name of the video this code reads. Defalut name is "ex5.avi". 
-- save: bool. True for saving the file and False for not. Default value set to False. 
-if sets to True, saves the file in "savedVideo" folder.
+- save: bool. True for saving the file and False for not. The default value is set to False. 
+if set to True, saves the file in the "savedVideo" folder.
 
 ### Object tracking
 
@@ -90,14 +88,14 @@ if sets to True, saves the file in "savedVideo" folder.
 
 [implementation-of-yolov3-simplified](https://www.analyticsvidhya.com/blog/2021/06/implementation-of-yolov3-simplified/)
 
-- The model's name is "yolo_darknet" and is saved in "model" file.
+- The model's name is "yolo_darknet" and is saved in the "model" file.
 - The classes' names are located in the "data" folder.
 
-In case of using other model, change MODEL_SIZE (image input size) values in "yoloDetector.py" to the relevant ones.
+In the case of using another model, change MODEL_SIZE (image input size) values in "yoloDetector.py" to the relevant ones.
 
 #### Track data
 
-This option opens a short video of multiple moving objects and track them.
+This option opens a short video of multiple moving objects and tracks them.
 
 To run:
 
@@ -106,8 +104,8 @@ python yoloMultiTracker.py --VideoName {Name of the file} --save {True or False}
 ```
 
 - name: str. The name of the video this code reads. Defalut name is "video/1.mp4". 
-- save: bool. True for saving the file and False for not. Default value set to False. 
-if sets to True, saves the file in "savedVideo" folder.
+- save: bool. "True" for saving the file and "False" for not. The default value is set to False. 
+if set to True, saves the file in the "savedVideo" folder.
 
 
 
