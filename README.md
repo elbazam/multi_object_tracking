@@ -8,10 +8,10 @@ A python package for multi object detection.
 
 
 
-[![Tracking traffic]          // Title
-(https://i.ytimg.com/vi/4F954rXDHiA/maxresdefault.jpg)] // Thumbnail
-(https://youtu.be/4F954rXDHiA "Tracking traffic")    // Video Link
-
+[![Tracking traffic]
+(https://i.ytimg.com/vi/4F954rXDHiA/maxresdefault.jpg)]
+(https://youtu.be/4F954rXDHiA "Tracking traffic")
+[!Tracking traffic](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 
