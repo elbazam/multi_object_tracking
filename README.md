@@ -1,7 +1,7 @@
 
 
 
-# Multi Tracking Using Kalman Filter.
+# Multiple Object Tracking Algorithm Using Kalman Filter.
 
 
 A Python package for multi-object detection.
