@@ -7,6 +7,7 @@
 A Python package for multi-object detection.
 
 
+Press to watch the video:
 
 [<img src="http://i3.ytimg.com/vi/4F954rXDHiA/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=4F954rXDHiA)
 
@@ -36,7 +37,10 @@ A Python package for multi-object detection.
 ### Circles tracking
 
 
-https://github.com/elbazam/multi_object_tracking/assets/53000338/c28490f9-1ac5-4ac1-bb11-ddb66a2ca092
+Press to watch the video:
+
+[<img src="http://i3.ytimg.com/vi/f1iMJtOTRtE/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=f1iMJtOTRtE)
+
 
 
 
