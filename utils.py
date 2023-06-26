@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  8 20:40:59 2022
 
-@author: aoosh
-"""
 
 import tensorflow as tf
 import numpy as np
