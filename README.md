@@ -44,9 +44,9 @@ Press to watch the video:
 
 
 
-#### Create data and track it online
+#### Create and track data simultaneously
 
-This option creates random sample data while online tracking the data.
+This option creates random sample data while tracking the data simultaneously.
 
 To run:
 
