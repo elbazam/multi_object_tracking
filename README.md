@@ -92,7 +92,7 @@ if set to True, saves the file in the "savedVideo" folder.
 
 [implementation-of-yolov3-simplified](https://www.analyticsvidhya.com/blog/2021/06/implementation-of-yolov3-simplified/)
 
-- The model's name is "yolo_darknet" and is saved in the "model" file.
+- The model's name is "yolo_darknet" and is saved in the "model" folder.
 - The classes' names are located in the "data" folder.
 
 In the case of using another model, change MODEL_SIZE (image input size) values in "yoloDetector.py" to the relevant ones.
